@@ -1,7 +1,7 @@
-##   Warez-RadiXX11
-# Warez - Patches, Generic Hooks, Keygens and Cracks from releaser and reverse engineer - RadiXX11
-
-# All releases (alphabetically sorted in ascending lexicographical order, which is case-insensitive)
+  #  Patches, Generic Hooks, Keygens and Cracks
+     RadiXX11 - releaser & reverse engineer
+ 
+  #  All releases (alphabetically sorted in ascending lexicographical order, which is case-insensitive):
 
 16Software Products Keygen
 4K Download Products Activator
