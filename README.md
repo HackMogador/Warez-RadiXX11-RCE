@@ -1,5 +1,5 @@
   #  Patches, Generic Hooks, Keygens and Cracks
-    from releaser & reverse engineer - RadiXX11
+     RadiXX11 - releaser & reverse engineer
  
   #  All releases (alphabetically sorted in ascending lexicographical order, which is case-insensitive):
 
